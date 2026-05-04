@@ -2,7 +2,7 @@
 
 💻 C++ | Python | SQL | Java <br/>
 🧠 DSA & problem solving <br/>
-⚙️ Backend & database systems <br/>
+⚙️ Frontend,Backend & database systems <br/>
 📈 Always learning, always improving <br/>
 
 
