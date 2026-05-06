@@ -2,7 +2,7 @@
 
 # Hey, I'm Usaid Khan 👋
 
-**CS Engineering student @ JIIT Noida &nbsp;·&nbsp; Building things with code since 2024**
+**CS Engineering student @ JIIT Noida &nbsp;·&nbsp; Building things with code since 2022**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usaid-khan-55b723332/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/usaidd__)
